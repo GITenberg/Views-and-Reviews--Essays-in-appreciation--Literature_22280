@@ -1,0 +1,37 @@
+_repo: Views-and-Reviews--Essays-in-appreciation--Literature_22280
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Henley, William Ernest
+    alias: Henley, W. E. (William Ernest)
+    birthdate: 1849
+    deathdate: 1903
+    gutenberg_agent_id: '369'
+    url: http://www.gutenberg.org/2009/agents/369
+    wikipedia: http://en.wikipedia.org/wiki/William_Ernest_Henley
+description: ''
+gutenberg_issued: '2007-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- History and criticism'
+- !lcsh 'Literature -- History and criticism'
+- !lcc 'PN'
+- !lcc 'PR'
+tableOfContents: Dickens -- Thackeray -- Disraeli -- Dumas -- Meredith -- Byron --
+  Hugo -- Heine -- Arnold -- Homer and Theocritus -- Rabelais -- Shakespeare -- Sidney
+  -- Tour neur -- Walton -- Herrick -- Locker -- Banville -- Dobson -- Berlioz --
+  George Eliot -- Borrow -- Balzac -- Labiche -- Champfleury -- Longfellow -- Tennyson
+  -- Gordon Hake -- Landor -- Hood -- Lever -- Jefferies -- Gay -- Essays and essayists
+  -- Boswell -- Congreve -- Arabian nights entertainments -- Richardson -- Tolstoï
+  -- Fielding.
+title: 'Views and Reviews: Essays in appreciation: Literature'
+url: http://www.gutenberg.org/ebooks/22280
